@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Downloads/tic-tac-toe-app/tic-tac-toe-app"
+		},
+		{
+			"path": "../../../../../Downloads/TicTacToeApp/TicTacToeApp/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tictactoeworking"
+	}
+}
